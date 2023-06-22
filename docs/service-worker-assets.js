@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-8Vdx\/n8Mhu+qA8gktSEWt0rH06ecKumB+d41hurfjxg=",
+      "hash": "sha256-ZFqVMsxJjrZ+beQnrJQDyIbhC080VgnG0qjO1EzMbVI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-Jr53gnvDH2fdUf29QaTviEskcSFXMWD58pxiTvdX9+Q=",
+      "hash": "sha256-ZFcdyQDm5kmwjTWzktnba\/v9iTVk8ons8YPF54xBNds=",
       "url": "_framework\/dotnet.7.0.7.4cc595o6sg.js"
     },
     {
