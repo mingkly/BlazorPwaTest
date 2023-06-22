@@ -1,7 +1,7 @@
 {
-  "name": "MyBlazorApp",
-  "short_name": "MyBlazorApp",
-  "start_url": "/",
+  "name": "MyBlazor",
+  "short_name": "MyBlazor",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",

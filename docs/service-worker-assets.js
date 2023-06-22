@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-lS2+vGu2Ca8JW2IH2iiu863Os2ELbOJ8PsvuuCkdki0=",
+      "hash": "sha256-ZFqVMsxJjrZ+beQnrJQDyIbhC080VgnG0qjO1EzMbVI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -85,8 +85,8 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-LRu6B7GZuT5Lv0MfUTbSH4yr02Qh2QXJAhWxHPkFw7c=",
-      "url": "_framework\/MyBlazorApp.dll"
+      "hash": "sha256-jwDumSm9vbRLnGFyO\/re5hUoxEG+f9iWNDpcQCV\/MZk=",
+      "url": "_framework\/MyBlazor.dll"
     },
     {
       "hash": "sha256-M5QNIjWTWuKn8+IKAVWEdjk7OB2HhnQd\/jmEz0YFfTQ=",
@@ -141,16 +141,16 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-27zVwP96f2XlETdJ5mnLjwf\/09v7FLKoL33zmaWBNck=",
-      "url": "_framework\/dotnet.7.0.7.xy39wpowk0.js"
+      "hash": "sha256-ZFcdyQDm5kmwjTWzktnba\/v9iTVk8ons8YPF54xBNds=",
+      "url": "_framework\/dotnet.7.0.7.4cc595o6sg.js"
     },
     {
-      "hash": "sha256-pJk5JlXr8X7UsGWSOKzC5IaxWfcEKmbeAPSu2TDDtME=",
+      "hash": "sha256-yi9Dtmizs292i\/L76J5sLKLj+SeMpk688ylU1QAvq3k=",
       "url": "_framework\/dotnet.wasm"
     },
     {
-      "hash": "sha256-L2B7TBCT5uOVOARVPjUuEkJFkP30Kl4aJSn1+yp\/kFY=",
-      "url": "MyBlazorApp.styles.css"
+      "hash": "sha256-vEhMfJdxjEQWJnyK4fT3TyJQ\/Hf6e2g4zqs8Gz3JMYM=",
+      "url": "MyBlazor.styles.css"
     },
     {
       "hash": "sha256-uhotZszkBLq\/V8xt8UtpU6lGHEIqbqLsFUVGyelV2TU=",
@@ -213,11 +213,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-\/sJo8z79UzKtCO32onBrFglzCDomsMKN43dIkqqq5yE=",
+      "hash": "sha256-l\/G9VTJ5dApcg9BRXVo+9+bEnQzkoiiDLpZobzQWvkI=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-LdKlimaLsquGg6dfJgZKR9+bnJllv+qw9ecfax9TK30=",
+      "hash": "sha256-bZ3uTM6g61xYiHYD4LCutq5fh7cgGWd3uwzkBOEn+6c=",
       "url": "manifest.json"
     },
     {
@@ -225,5 +225,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "eYxdToo5"
+  "version": "Av6VCKST"
 };
