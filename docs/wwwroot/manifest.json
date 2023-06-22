@@ -1,7 +1,7 @@
 {
   "name": "MyBlazorApp",
   "short_name": "MyBlazorApp",
-  "start_url": "./",
+  "start_url": "https://mingkly.github.io/BlazorPwaTest/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
